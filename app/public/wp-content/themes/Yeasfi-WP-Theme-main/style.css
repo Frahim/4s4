@@ -1,0 +1,177 @@
+/*!
+Theme Name: Yeasfi WP Theme
+Theme URI: https://github.com/Frahim/Yeasfi-WP-Theme
+Author: Md Yeasir Arafat
+Author URI: https://yeasir.adaptstoday.co.uk
+Description: Description
+Version: 1.0.0
+Tested up to: 5.4
+Requires PHP: 5.6
+License: GNU General Public License v2 or later
+License URI: LICENSE
+Text Domain: yeasfi-wp-theme
+Tags: custom-background, custom-logo, custom-menu, featured-images, threaded-comments, translation-ready
+
+This theme, like WordPress, is licensed under the GPL.
+Use it to make something cool, have fun, and share what you've learned.
+
+*/
+
+/*--------------------------------------------------------------
+>>> TABLE OF CONTENTS:
+----------------------------------------------------------------
+# Generic
+	- Normalize
+	- Box sizing
+# Base
+	- Typography
+	- Elements
+	- Links
+	- Forms
+## Layouts
+# Components
+	- Navigation
+	- Posts and pages
+	- Comments
+	- Widgets
+	- Media
+	- Captions
+	- Galleries
+# plugins
+	- Jetpack infinite scroll
+# Utilities
+	- Accessibility
+	- Alignments
+
+--------------------------------------------------------------*/
+
+/*--------------------------------------------------------------
+# Generic
+--------------------------------------------------------------*/
+
+/* Normalize
+--------------------------------------------- */
+
+/*! normalize.css v8.0.1 | MIT License | github.com/necolas/normalize.css */
+
+/* Document
+	 ========================================================================== */
+
+/**
+ * 1. Correct the line height in all browsers.
+ * 2. Prevent adjustments of font size after orientation changes in iOS.
+ */
+html {
+	line-height: 1.15;
+	-webkit-text-size-adjust: 100%;
+}
+
+/* Sections
+	 ========================================================================== */
+
+/**
+ * Remove the margin in all browsers.
+ */
+body {
+	margin: 0;
+}
+
+/**
+ * Common CSS 
+ */
+main {
+	display: block;	
+}
+
+.align-items-center {
+    align-items: center!important;
+}
+.justify-content-center {
+    justify-content: center!important;
+}
+.h-100 {
+    height: 100%!important;
+}
+.h-60{height: 60%;}
+.d-flex {
+    display: flex!important;
+}
+.text-right {
+    text-align: right;
+}
+
+/*
+*Nave Bar
+*/
+
+.navbar {
+	position: fixed;
+    padding-top: 20px;
+	width: 100%;
+}
+.navbar-header a.custom-logo-link img {
+    max-width: 300px;
+    height: auto;
+    max-height: 100px;
+    object-fit: contain;
+}
+#primary-menu{
+    padding: 0;
+    margin: 0;
+	display: flex;
+}
+
+#primary-menu li {
+    list-style: none;
+	position: relative;
+}
+#primary-menu li a {
+    text-decoration: none;
+	padding: 10px;
+	position: relative;
+}
+#primary-menu .current-menu-item a:after {
+    content: "";
+    display: inline-block;
+    border-bottom: 2px solid;
+    position: absolute;
+    width: 30px;
+    left: 29%;
+    bottom: -6px;
+    opacity: 0.5;
+}
+/*
+* Banner
+*/
+.bg-image{
+	background-repeat: no-repeat !important;
+	background-size: cover !important;
+}
+
+.mask {
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+    background-attachment: fixed;
+}
+.ctabtnsec {
+    padding: 5% 0;
+    text-align: center;
+}
+.socialmedia-banner ul{
+	display: flex;
+}
+.socialmedia-banner ul li{
+	list-style: none;
+}
+.socialmedia-banner ul li a {    
+    display: inline-block;
+    padding: 5px;
+    margin: 10px;
+	transition:all 0.2s;
+}

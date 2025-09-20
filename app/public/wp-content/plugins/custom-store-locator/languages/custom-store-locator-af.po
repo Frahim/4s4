@@ -1,0 +1,546 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Custom Store Locator\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-11-25 06:07+0000\n"
+"PO-Revision-Date: 2025-05-16 12:22+0000\n"
+"Last-Translator: \n"
+"Language-Team: Afrikaans\n"
+"Language: af\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.3; wp-6.2.2\n"
+"X-Domain: custom-store-locator"
+
+#: custom-store-locator.php:131
+msgid "About"
+msgstr "Oor"
+
+#: inc/Csl-functions.php:156 inc/layout/default-right-map.php:78
+#: inc/layout/map-style-1.php:92
+msgid "Address"
+msgstr "Spreek"
+
+#: custom-store-locator.php:252 inc/layout/default-right-map.php:16
+#: inc/layout/full-width-map.php:18 inc/layout/map-style-1.php:20
+msgid "Address or Zipcode"
+msgstr "Adres of Poskode"
+
+#: templates/adminsettings.php:629
+msgid "All Countries"
+msgstr "Alle Lande"
+
+#: inc/layout/default-right-map.php:48 inc/layout/full-width-map.php:27
+#: inc/layout/map-style-1.php:57
+#, fuzzy
+msgid "All Locations"
+msgstr "Al Die Plekke"
+
+#: templates/adminsettings.php:116
+msgid "Appearance"
+msgstr "Voorkoms"
+
+#: templates/adminsettings.php:198
+msgid "Appearance Settings"
+msgstr "Voorkomsinstellings"
+
+#: inc/layout/default-right-map.php:114 inc/layout/full-width-map.php:72
+#: inc/layout/map-style-1.php:65
+msgid "Back to Map"
+msgstr "Terug na die Kaart"
+
+#: inc/Csl-functions.php:381
+msgid "Business Address"
+msgstr "Besigheids Adres"
+
+#: inc/Csl-functions.php:379
+msgid "Business Contact Email"
+msgstr "Besigheid Kontak E-Pos"
+
+#: inc/Csl-functions.php:377
+msgid "Business FAX"
+msgstr "Besigheid FAKS"
+
+#: inc/Csl-functions.php:389
+msgid "Business Hours (Use Shift+Enter for line break)"
+msgstr "Sake-Ure (Gebruik Shift+Enter vir die lyn breek)"
+
+#: inc/Csl-functions.php:385
+msgid "Business Latitude"
+msgstr "Besigheid Breedtegraad"
+
+#: inc/Csl-functions.php:387
+msgid "Business Longitude"
+msgstr "Besigheid Lengte -"
+
+#: inc/Csl-functions.php:375
+msgid "Business Phone Number"
+msgstr "Besigheid Telefoonnommer"
+
+#: inc/Csl-functions.php:383
+msgid "Business Zip Code"
+msgstr "Besigheid Poskode"
+
+#: inc/Csl-functions.php:136 inc/layout/map-style-1.php:110
+msgid "Call"
+msgstr "Bel"
+
+#: inc/Csl-functions.php:596 inc/Csl-functions.php:641
+msgid "Category Marker"
+msgstr "Kategoriemerker"
+
+#: templates/adminsettings.php:627
+msgid "Country Search Restriction"
+msgstr "Landsoektogbeperking"
+
+#: inc/layout/map-style-1.php:44
+msgid "current location"
+msgstr "huidige ligging"
+
+#: templates/adminsettings.php:319
+#, fuzzy
+msgid "Custom Menu Order"
+msgstr "Custom Menu Einde"
+
+#: templates/adminsettings.php:110
+msgid "Custom Store Locator Settings"
+msgstr "Pasgemaakte Winkelsoekerinstellings"
+
+#. Name of the plugin
+#, fuzzy
+#| msgid "Custom Store Locator"
+msgid "Custom WP Store Locator"
+msgstr "Persoonlike Store Locator"
+
+#: templates/adminsettings.php:322
+#, fuzzy
+msgid "Date Ascending"
+msgstr "Datum Stygende"
+
+#: templates/adminsettings.php:323
+#, fuzzy
+msgid "Date Descending"
+msgstr "Datum Dalende"
+
+#: templates/adminsettings.php:318
+#, fuzzy
+msgid "Default"
+msgstr "Standaard"
+
+#: templates/adminsettings.php:348
+msgid "Disable Marker Cluster in Map"
+msgstr "Deaktiveer Merkergroep in Kaart"
+
+#: templates/adminsettings.php:271
+msgid "Distance Units"
+msgstr "Afstandseenhede"
+
+#: templates/adminsettings.php:40
+msgid "Done! "
+msgstr "Gedoen! "
+
+#: inc/Csl-functions.php:110 inc/layout/default-right-map.php:87
+#: inc/layout/map-style-1.php:98
+msgid "Email"
+msgstr "E-pos"
+
+#: templates/adminsettings.php:344
+msgid "Enable Autocomplete in Searchbox"
+msgstr "Aktiveer Outomatiese Voltooiing in Soekkassie"
+
+#: inc/Csl-functions.php:267
+msgid "Enter Address"
+msgstr "Tik Adres"
+
+#: inc/Csl-functions.php:228
+msgid "Enter Zipcode"
+msgstr "Poskode Tik"
+
+#: inc/Csl-functions.php:141 inc/layout/default-right-map.php:90
+#: inc/layout/map-style-1.php:101
+msgid "Fax"
+msgstr "Faks"
+
+#: templates/adminsettings.php:114 templates/adminsettings.php:145
+msgid "Field Settings"
+msgstr "Veldinstellings"
+
+#: templates/adminsettings.php:331
+msgid "Fullwidth Map"
+msgstr "Volbreedte Kaart"
+
+#: templates/adminsettings.php:113 templates/adminsettings.php:240
+#, fuzzy
+msgid "General"
+msgstr "Algemene"
+
+#: custom-store-locator.php:258
+msgid "Get Direction"
+msgstr "Kry Rigting"
+
+#: templates/adminsettings.php:267
+#, fuzzy
+msgid "Google Map API Key"
+msgstr "Google Kaart API Sleutel"
+
+#: templates/adminsettings.php:280
+msgid "Google Map Default Radius"
+msgstr "Google Map se standaardradius"
+
+#: templates/adminsettings.php:352
+msgid "Google Map Default Zoom"
+msgstr "Google Map Standaard Zoom"
+
+#: templates/adminsettings.php:305
+#, fuzzy
+msgid "Google Map Type"
+msgstr "Google Kaart Tipe"
+
+#: templates/adminsettings.php:132
+msgid "here"
+msgstr "hier"
+
+#: templates/adminsettings.php:160
+msgid "Hide Email"
+msgstr "Versteek e-pos"
+
+#: templates/adminsettings.php:164
+msgid "Hide Fax Number"
+msgstr "Versteek faksnommer"
+
+#: templates/adminsettings.php:156
+msgid "Hide Phone Number"
+msgstr "Versteek telefoonnommer"
+
+#: templates/adminsettings.php:172
+msgid "Hide Store Hours"
+msgstr "Versteek Winkelure"
+
+#: templates/adminsettings.php:168
+msgid "Hide Website"
+msgstr "Versteek webwerf"
+
+#. URI of the plugin
+msgid "https://www.devxcel.com/"
+msgstr "https://www.devxcel.com/"
+
+#: templates/adminsettings.php:310
+#, fuzzy
+msgid "Hybrid"
+msgstr "Hybrid"
+
+#: templates/adminsettings.php:115
+#, fuzzy
+msgid "Import"
+msgstr "Invoer"
+
+#: templates/adminsettings.php:122
+#, fuzzy
+msgid "Import Locations"
+msgstr "Invoer Plekke"
+
+#. 1: Name of a city 2: ZIP code
+#: templates/adminsettings.php:61
+#, php-format
+msgid "Importing %1$s, <i> ( %2$s locations remaining)...</i><BR />"
+msgstr "Voer %1$s in, <i>(%2$s liggings oor)...</i><BR />"
+
+#: templates/adminsettings.php:287
+#, fuzzy
+msgid "Include Category in Searchbox"
+msgstr "Sluit Kategorie in Searchbox"
+
+#: templates/adminsettings.php:339
+msgid "Include Locations Dropdown in Searchbox"
+msgstr "Sluit Plekke Dropdown in Searchbox"
+
+#: templates/adminsettings.php:291
+msgid "Include Name in Searchbox"
+msgstr "Sluit Naam in Soekkassie in"
+
+#: templates/adminsettings.php:275
+msgid "Kilometers"
+msgstr "Kilometer"
+
+#: custom-store-locator.php:266
+msgid "KM Away"
+msgstr "KM Weg"
+
+#: templates/adminsettings.php:327
+msgid "Layout"
+msgstr "Uitleg"
+
+#: custom-store-locator.php:154
+msgid "Location Categories"
+msgstr "Plek Kategorieë"
+
+#: custom-store-locator.php:145
+msgid "Locations"
+msgstr "Plekke"
+
+#: templates/adminsettings.php:315
+#, fuzzy
+msgid "Locations Default Sorting"
+msgstr "Plekke Standaard Sorteer"
+
+#: custom-store-locator.php:261
+msgid "Locations near"
+msgstr "Plekke naby"
+
+#: custom-store-locator.php:260
+msgid "Locations near Me"
+msgstr "Plekke naby My"
+
+#: templates/adminsettings.php:355
+msgid "Map Default Zoom"
+msgstr "Kaart Standaard Zoom"
+
+#: templates/adminsettings.php:330
+msgid "Map With Sidebar List"
+msgstr "Kaart Met Sidebar Lys"
+
+#. Author of the plugin
+#, fuzzy
+msgid "Metatagg Inc"
+msgstr "Metatagg Inc"
+
+#: templates/adminsettings.php:274
+msgid "Miles"
+msgstr "Myl"
+
+#: custom-store-locator.php:265
+msgid "Miles Away"
+msgstr "Myl Weg"
+
+#: templates/adminsettings.php:332
+msgid "Modern Style 1"
+msgstr "Moderne Styl 1"
+
+#: custom-store-locator.php:259
+msgid "No locations found. Please search again"
+msgstr "Geen plekke gevind. Asseblief weer soek"
+
+#: inc/Csl-functions.php:131 inc/layout/default-right-map.php:84
+msgid "Phone"
+msgstr "Selfoon"
+
+#: custom-store-locator.php:119
+#, fuzzy
+msgid "Please add google map api key on setting for map to work."
+msgstr ""
+"Voeg asseblief google kaart api-sleutel op te stel vir'n kaart om te werk."
+
+#: inc/Csl-functions.php:126 inc/layout/default-right-map.php:81
+#: inc/layout/map-style-1.php:95
+msgid "Postal Code"
+msgstr "Postal Code"
+
+#: templates/adminsettings.php:206
+msgid "Primary Color"
+msgstr "Primêre Kleur"
+
+#: templates/adminsettings.php:283
+msgid "Radius units are based on above Distance Units field selected option"
+msgstr ""
+"Radiuseenhede is gebaseer op die bogenoemde Afstandseenhede-veld-gekose opsie"
+
+#: inc/Csl-functions.php:599 inc/Csl-functions.php:646
+msgid "Remove Marker"
+msgstr "Verwyder merker"
+
+#: inc/layout/default-right-map.php:46 inc/layout/full-width-map.php:67
+#: inc/layout/map-style-1.php:52
+#, fuzzy
+msgid "Reset"
+msgstr "Herstel"
+
+#: templates/adminsettings.php:308
+#, fuzzy
+msgid "Roadmap"
+msgstr "Padkaart"
+
+#: templates/adminsettings.php:309
+#, fuzzy
+msgid "Satellite"
+msgstr "Satelliet"
+
+#: inc/layout/default-right-map.php:45 inc/layout/full-width-map.php:66
+#: inc/layout/map-style-1.php:49
+#, fuzzy
+msgid "Search"
+msgstr "Soek"
+
+#: inc/layout/default-right-map.php:8 inc/layout/full-width-map.php:10
+#: inc/layout/map-style-1.php:14
+msgid "Search By Name"
+msgstr "Soek volgens naam"
+
+#: templates/adminsettings.php:210
+msgid "Secondary Color"
+msgstr "Sekondêre Kleur"
+
+#: inc/layout/default-right-map.php:31 inc/layout/full-width-map.php:54
+#: inc/layout/map-style-1.php:33
+msgid "Select Category"
+msgstr "Kies Die Kategorie"
+
+#: templates/adminsettings.php:329
+msgid "Select Layout"
+msgstr "Kies Uitleg"
+
+#: inc/Csl-functions.php:609 inc/Csl-functions.php:661
+msgid "Select Marker"
+msgstr "Kies Merker"
+
+#: templates/adminsettings.php:307
+#, fuzzy
+msgid "Select Option"
+msgstr "Kies Opsie"
+
+#: custom-store-locator.php:132
+msgid "Settings"
+msgstr "Instellings"
+
+#: custom-store-locator.php:263
+msgid "Sorry, no locations were found near"
+msgstr "Jammer, geen plekke gevind naby"
+
+#: inc/Csl-functions.php:146 inc/layout/default-right-map.php:96
+#: inc/layout/map-style-1.php:104
+msgid "Store Hours"
+msgstr "Winkel Ure"
+
+#: custom-store-locator.php:130
+msgid "Store Locator"
+msgstr "Store Locator"
+
+#: templates/admin.php:4
+#, fuzzy
+msgid "Store Locator Plugin"
+msgstr "Store Locator Plugin"
+
+#: custom-store-locator.php:268
+msgid "Store Name"
+msgstr "Winkelnaam"
+
+#: custom-store-locator.php:264
+msgid "Street View"
+msgstr "Street View"
+
+#: templates/adminsettings.php:311
+#, fuzzy
+msgid "Terrain"
+msgstr "Terrein"
+
+#: templates/adminsettings.php:638
+msgid ""
+"This is helpful when all of your stores are located in single country and "
+"you are facing incorrect search result problems. Just select country from "
+"above list."
+msgstr ""
+"Dit is nuttig wanneer al jou winkels in een land geleë is en jy probleme met "
+"verkeerde soekresultate ondervind. Kies net 'n land uit die lys hierbo."
+
+#. Description of the plugin
+#, fuzzy
+msgid ""
+"This is store locator plugin which provide search stores and other "
+"functionality."
+msgstr ""
+"Dit is store locator plugin wat voorsiening maak soek die winkels en ander "
+"funksies."
+
+#: custom-store-locator.php:169
+msgid "Title"
+msgstr "Titel"
+
+#: templates/adminsettings.php:320
+#, fuzzy
+msgid "Title Ascending"
+msgstr "Titel Stygende"
+
+#: templates/adminsettings.php:321
+#, fuzzy
+msgid "Title Descending"
+msgstr "Titel Neerdaal"
+
+#: templates/adminsettings.php:25
+msgid "Total item count: "
+msgstr "Totale item tel: "
+
+#: templates/adminsettings.php:295
+#, fuzzy
+msgid "Upload Custom Google Map Marker"
+msgstr "Oplaai Persoonlike Google Kaart Merker"
+
+#: inc/Csl-functions.php:598 inc/Csl-functions.php:645
+msgid "Upload Marker"
+msgstr "Oplaaimerker"
+
+#: templates/admin.php:7
+msgid ""
+"Use \"[csl-search pageid=\"your store listing page id\"]\" shortcode on page "
+"for displaying search widget in page where \"your store listing page id\" is "
+"page id of store listing page which contains  \"[csl-store-list]\" shortcode."
+" For example, [csl-search pageid=\"5226\"] ."
+msgstr ""
+"Gebruik die kortkode \"[csl-search pageid=\"jou winkellysbladsy-ID\"]\" op "
+"die bladsy om die soeklegstuk op die bladsy te vertoon waar \"jou "
+"winkellysbladsy-ID\" die bladsy-ID van die winkellysbladsy is wat die "
+"kortkode \"[csl-store-list]\" bevat. Byvoorbeeld, [csl-search "
+"pageid=\"5226\"]."
+
+#: templates/admin.php:8
+msgid ""
+"Use \"[csl-store-list category=\"your category slug\"]\" shortcode on page "
+"for displaying store list along with map for specific category"
+msgstr ""
+"Gebruik die kortkode \"[csl-store-list category=\"your category slug\"]\" op "
+"die bladsy om die winkellys saam met die kaart vir die spesifieke kategorie "
+"te vertoon."
+
+#: templates/admin.php:6
+msgid ""
+"Use \"[csl-store-list]\" shortcode on page for displaying store list along "
+"with map"
+msgstr ""
+"Gebruik die kortkode \"[csl-store-list]\" op die bladsy om die winkellys "
+"saam met die kaart te vertoon."
+
+#: inc/Csl-functions.php:611 inc/Csl-functions.php:663
+msgid "Use This Marker"
+msgstr "Gebruik hierdie merker"
+
+#: custom-store-locator.php:262 inc/layout/default-right-map.php:99
+#: inc/layout/map-style-1.php:108
+#, fuzzy
+msgid "View on Map"
+msgstr "Sien op die Kaart"
+
+#: inc/Csl-functions.php:115 inc/Csl-functions.php:120
+#: inc/layout/default-right-map.php:93 inc/layout/map-style-1.php:113
+msgid "Website"
+msgstr "Webwerf"
+
+#: inc/Csl-functions.php:373
+msgid "Website URL"
+msgstr "Webwerf URL"
+
+#. %s: Link to the sample CSV file
+#: templates/adminsettings.php:131
+#, php-format
+msgid ""
+"You can import location using a CSV file. You can download the sample CSV "
+"file from %s."
+msgstr ""
+"Jy kan ligging invoer deur 'n CSV-lêer te gebruik. Jy kan die voorbeeld-CSV-"
+"lêer van %s aflaai."
+
+#: custom-store-locator.php:254 inc/Csl-functions.php:228
+#: inc/layout/default-right-map.php:20 inc/layout/full-width-map.php:22
+#: inc/layout/map-style-1.php:22
+msgid "Zipcode"
+msgstr "Zipcode"

@@ -1,0 +1,27 @@
+.cf-field.cf-html {
+    background: #333;
+    color: #fff;
+}
+.theme-name {
+    font-size: 20px !important;
+    padding: 0 !important;
+    color: #fff !important;
+}
+.cf-container-carbon_fields_container_basic_information .cf-field.cf-image {
+    max-width: 50%;
+}
+
+.cf-container-carbon_fields_container_basic_information .cf-complex__group-body, .cf-container-carbon_fields_container_social_links .cf-complex__group-body{
+    flex-wrap: nowrap;
+}
+
+.cf-select .cf-field__head,.cf-color .cf-field__head{
+    display: inline-block;
+    width: 30%;
+    float: left;
+}
+.cf-select .cf-field__body,.cf-color .cf-field__body{
+    display: inline-block;
+    width: 70%;
+    float: left;
+}

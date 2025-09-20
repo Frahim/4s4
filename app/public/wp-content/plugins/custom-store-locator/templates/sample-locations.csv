@@ -1,0 +1,3 @@
+title,website,business_phone_number,business_fax,business_contact_email,business_address,business_zip_code,business_latitude,business_longitude,business_storehours,business_category
+Test Location 1,http://mylocation.com,9988776655,111111,test@gmail.com,"Tapovan and, Bhat Cir, Sughad, Ahmedabad, Gujarat 382424, India",380001,39.7299296,-104.9873913,Monday-open,"Category 1, Category, Cat 3"
+Test Location 2,http://test.com,2233445566,222222,mytest@gmail.com,"New Tapovan and, Bhat Cir, Sughad, Ahmedabad, Gujarat 382424, India",382426,44.9398076,-93.1760938,Tuesday-closed,"Category 2, Cat 2, Test"

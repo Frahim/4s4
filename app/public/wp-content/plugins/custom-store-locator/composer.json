@@ -1,0 +1,17 @@
+{
+    "name": "umang/custom-store-locator",
+    "description": "store loator plugin",
+    "type": "project",
+    "license": "GPL",
+    "authors": [
+        {
+            "name": "Metatagg",
+            "email": "umang.metatagg@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {"CSLInc\\": "./inc"}
+    }
+}

@@ -1,0 +1,528 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Custom Store Locator\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-11-25 06:07+0000\n"
+"PO-Revision-Date: 2025-05-16 12:40+0000\n"
+"Last-Translator: \n"
+"Language-Team: Hindi\n"
+"Language: hi_IN\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.14; wp-6.8.1\n"
+"X-Domain: custom-store-locator"
+
+#: custom-store-locator.php:131
+msgid "About"
+msgstr "के बारे में"
+
+#: inc/Csl-functions.php:156 inc/layout/default-right-map.php:78
+#: inc/layout/map-style-1.php:92
+msgid "Address"
+msgstr "पता"
+
+#: custom-store-locator.php:252 inc/layout/default-right-map.php:16
+#: inc/layout/full-width-map.php:18 inc/layout/map-style-1.php:20
+msgid "Address or Zipcode"
+msgstr "पता या पिनकोड"
+
+#: templates/adminsettings.php:629
+msgid "All Countries"
+msgstr "सभी देश"
+
+#: inc/layout/default-right-map.php:48 inc/layout/full-width-map.php:27
+#: inc/layout/map-style-1.php:57
+msgid "All Locations"
+msgstr "सभी स्थानों"
+
+#: templates/adminsettings.php:116
+msgid "Appearance"
+msgstr "उपस्थिति"
+
+#: templates/adminsettings.php:198
+msgid "Appearance Settings"
+msgstr "अपियरेंस सेटिंग्स"
+
+#: inc/layout/default-right-map.php:114 inc/layout/full-width-map.php:72
+#: inc/layout/map-style-1.php:65
+msgid "Back to Map"
+msgstr "वापस नक्शा करने के लिए"
+
+#: inc/Csl-functions.php:381
+msgid "Business Address"
+msgstr "व्यापार पते"
+
+#: inc/Csl-functions.php:379
+msgid "Business Contact Email"
+msgstr "व्यापार ईमेल से संपर्क करें"
+
+#: inc/Csl-functions.php:377
+msgid "Business FAX"
+msgstr "व्यापार फैक्स"
+
+#: inc/Csl-functions.php:389
+msgid "Business Hours (Use Shift+Enter for line break)"
+msgstr "व्यापार घंटे का उपयोग करें (Shift+Enter रेखा को तोड़ने के लिए)"
+
+#: inc/Csl-functions.php:385
+msgid "Business Latitude"
+msgstr "व्यापार अक्षांश"
+
+#: inc/Csl-functions.php:387
+msgid "Business Longitude"
+msgstr "व्यापार देशांतर"
+
+#: inc/Csl-functions.php:375
+msgid "Business Phone Number"
+msgstr "व्यापार फोन नंबर"
+
+#: inc/Csl-functions.php:383
+msgid "Business Zip Code"
+msgstr "व्यापार ज़िप कोड"
+
+#: inc/Csl-functions.php:136 inc/layout/map-style-1.php:110
+msgid "Call"
+msgstr "पुकारना"
+
+#: inc/Csl-functions.php:596 inc/Csl-functions.php:641
+msgid "Category Marker"
+msgstr "श्रेणी मार्कर"
+
+#: templates/adminsettings.php:627
+msgid "Country Search Restriction"
+msgstr "देश खोज प्रतिबंध"
+
+#: inc/layout/map-style-1.php:44
+msgid "current location"
+msgstr "वर्तमान स्थान"
+
+#: templates/adminsettings.php:319
+msgid "Custom Menu Order"
+msgstr "कस्टम मेनू आदेश"
+
+#: templates/adminsettings.php:110
+msgid "Custom Store Locator Settings"
+msgstr "कस्टम स्टोर लोकेटर सेटिंग्स"
+
+#. Name of the plugin
+#, fuzzy
+#| msgid "Custom Store Locator"
+msgid "Custom WP Store Locator"
+msgstr "कस्टम स्टोर लोकेटर"
+
+#: templates/adminsettings.php:322
+msgid "Date Ascending"
+msgstr "तिथि आरोही"
+
+#: templates/adminsettings.php:323
+msgid "Date Descending"
+msgstr "तिथि अवरोही"
+
+#: templates/adminsettings.php:318
+msgid "Default"
+msgstr "डिफ़ॉल्ट"
+
+#: templates/adminsettings.php:348
+msgid "Disable Marker Cluster in Map"
+msgstr "मानचित्र में मार्कर क्लस्टर अक्षम करें"
+
+#: templates/adminsettings.php:271
+msgid "Distance Units"
+msgstr "दूरी इकाइयाँ"
+
+#: templates/adminsettings.php:40
+msgid "Done! "
+msgstr "किया! "
+
+#: inc/Csl-functions.php:110 inc/layout/default-right-map.php:87
+#: inc/layout/map-style-1.php:98
+msgid "Email"
+msgstr "ईमेल"
+
+#: templates/adminsettings.php:344
+msgid "Enable Autocomplete in Searchbox"
+msgstr "खोज बॉक्स में स्वतः पूर्ण सक्षम करें"
+
+#: inc/Csl-functions.php:267
+msgid "Enter Address"
+msgstr "पता दर्ज करें"
+
+#: inc/Csl-functions.php:228
+msgid "Enter Zipcode"
+msgstr "ज़िपकोड दर्ज करें"
+
+#: inc/Csl-functions.php:141 inc/layout/default-right-map.php:90
+#: inc/layout/map-style-1.php:101
+msgid "Fax"
+msgstr "फैक्स"
+
+#: templates/adminsettings.php:114 templates/adminsettings.php:145
+msgid "Field Settings"
+msgstr "फ़ील्ड सेटिंग्स"
+
+#: templates/adminsettings.php:331
+msgid "Fullwidth Map"
+msgstr "फ़ुल विड्थ नक्शा"
+
+#: templates/adminsettings.php:113 templates/adminsettings.php:240
+msgid "General"
+msgstr "सामान्य"
+
+#: custom-store-locator.php:258
+msgid "Get Direction"
+msgstr "दिशा मिल"
+
+#: templates/adminsettings.php:267
+msgid "Google Map API Key"
+msgstr "गूगल मानचित्र एपीआई कुंजी"
+
+#: templates/adminsettings.php:280
+msgid "Google Map Default Radius"
+msgstr "गूगल मानचित्र डिफ़ॉल्ट त्रिज्या"
+
+#: templates/adminsettings.php:352
+msgid "Google Map Default Zoom"
+msgstr "गूगल मैप डिफ़ॉल्ट ज़ूम"
+
+#: templates/adminsettings.php:305
+msgid "Google Map Type"
+msgstr "गूगल मानचित्र प्रकार"
+
+#: templates/adminsettings.php:132
+msgid "here"
+msgstr "यहाँ"
+
+#: templates/adminsettings.php:160
+msgid "Hide Email"
+msgstr "ई मेल छिपाना"
+
+#: templates/adminsettings.php:164
+msgid "Hide Fax Number"
+msgstr "फ़ैक्स नंबर छुपाएं"
+
+#: templates/adminsettings.php:156
+msgid "Hide Phone Number"
+msgstr "फ़ोन नंबर छुपाएं"
+
+#: templates/adminsettings.php:172
+msgid "Hide Store Hours"
+msgstr "स्टोर का समय छिपाएं"
+
+#: templates/adminsettings.php:168
+msgid "Hide Website"
+msgstr "वेबसाइट छुपाएं"
+
+#. URI of the plugin
+msgid "https://www.devxcel.com/"
+msgstr "https://www.devxcel.com/"
+
+#: templates/adminsettings.php:310
+msgid "Hybrid"
+msgstr "संकर"
+
+#: templates/adminsettings.php:115
+msgid "Import"
+msgstr "आयात"
+
+#: templates/adminsettings.php:122
+msgid "Import Locations"
+msgstr "स्थान आयात करें"
+
+#. 1: Name of a city 2: ZIP code
+#: templates/adminsettings.php:61
+#, php-format
+msgid "Importing %1$s, <i> ( %2$s locations remaining)...</i><BR />"
+msgstr "%1$s आयात किया जा रहा है, <i>( %2$s स्थान शेष हैं)...</i><BR />"
+
+#: templates/adminsettings.php:287
+msgid "Include Category in Searchbox"
+msgstr "शामिल श्रेणी में Searchbox"
+
+#: templates/adminsettings.php:339
+msgid "Include Locations Dropdown in Searchbox"
+msgstr "शामिल स्थानों में ड्रॉपडाउन बॉक्स"
+
+#: templates/adminsettings.php:291
+msgid "Include Name in Searchbox"
+msgstr "खोज बॉक्स में नाम शामिल करें"
+
+#: templates/adminsettings.php:275
+msgid "Kilometers"
+msgstr "किलोमीटर"
+
+#: custom-store-locator.php:266
+msgid "KM Away"
+msgstr "किमी दूर"
+
+#: templates/adminsettings.php:327
+msgid "Layout"
+msgstr "लेआउट"
+
+#: custom-store-locator.php:154
+msgid "Location Categories"
+msgstr "स्थान श्रेणियाँ"
+
+#: custom-store-locator.php:145
+msgid "Locations"
+msgstr "स्थानों"
+
+#: templates/adminsettings.php:315
+msgid "Locations Default Sorting"
+msgstr "स्थानों डिफ़ॉल्ट छंटाई"
+
+#: custom-store-locator.php:261
+msgid "Locations near"
+msgstr "स्थानों के पास"
+
+#: custom-store-locator.php:260
+msgid "Locations near Me"
+msgstr "स्थानों मेरे पास"
+
+#: templates/adminsettings.php:355
+msgid "Map Default Zoom"
+msgstr "मानचित्र डिफ़ॉल्ट ज़ूम"
+
+#: templates/adminsettings.php:330
+msgid "Map With Sidebar List"
+msgstr "नक्शा साइडबार के साथ सूची"
+
+#. Author of the plugin
+msgid "Metatagg Inc"
+msgstr "Metatagg इंक"
+
+#: templates/adminsettings.php:274
+msgid "Miles"
+msgstr "मील"
+
+#: custom-store-locator.php:265
+msgid "Miles Away"
+msgstr "मील दूर"
+
+#: templates/adminsettings.php:332
+msgid "Modern Style 1"
+msgstr "आधुनिक शैली 1"
+
+#: custom-store-locator.php:259
+msgid "No locations found. Please search again"
+msgstr "कोई स्थान नहीं मिला. कृपया फिर से खोज"
+
+#: inc/Csl-functions.php:131 inc/layout/default-right-map.php:84
+msgid "Phone"
+msgstr "फोन"
+
+#: custom-store-locator.php:119
+msgid "Please add google map api key on setting for map to work."
+msgstr ""
+"जोड़ने के लिए कृपया गूगल मानचित्र एपीआई कुंजी सेट करने के लिए नक्शा करने के "
+"लिए काम करते हैं."
+
+#: inc/Csl-functions.php:126 inc/layout/default-right-map.php:81
+#: inc/layout/map-style-1.php:95
+msgid "Postal Code"
+msgstr "डाक कोड"
+
+#: templates/adminsettings.php:206
+msgid "Primary Color"
+msgstr "प्राथमिक रंग"
+
+#: templates/adminsettings.php:283
+msgid "Radius units are based on above Distance Units field selected option"
+msgstr "त्रिज्या इकाइयाँ ऊपर दूरी इकाइयाँ फ़ील्ड चयनित विकल्प पर आधारित हैं"
+
+#: inc/Csl-functions.php:599 inc/Csl-functions.php:646
+msgid "Remove Marker"
+msgstr "मार्कर हटाएँ"
+
+#: inc/layout/default-right-map.php:46 inc/layout/full-width-map.php:67
+#: inc/layout/map-style-1.php:52
+msgid "Reset"
+msgstr "रीसेट करें"
+
+#: templates/adminsettings.php:308
+msgid "Roadmap"
+msgstr "रोडमैप"
+
+#: templates/adminsettings.php:309
+msgid "Satellite"
+msgstr "उपग्रह"
+
+#: inc/layout/default-right-map.php:45 inc/layout/full-width-map.php:66
+#: inc/layout/map-style-1.php:49
+msgid "Search"
+msgstr "खोज"
+
+#: inc/layout/default-right-map.php:8 inc/layout/full-width-map.php:10
+#: inc/layout/map-style-1.php:14
+msgid "Search By Name"
+msgstr "नाम से खोजें"
+
+#: templates/adminsettings.php:210
+msgid "Secondary Color"
+msgstr "द्वितीयक रंग"
+
+#: inc/layout/default-right-map.php:31 inc/layout/full-width-map.php:54
+#: inc/layout/map-style-1.php:33
+msgid "Select Category"
+msgstr "श्रेणी का चयन करें"
+
+#: templates/adminsettings.php:329
+msgid "Select Layout"
+msgstr "लेआउट का चयन करें"
+
+#: inc/Csl-functions.php:609 inc/Csl-functions.php:661
+msgid "Select Marker"
+msgstr "मार्कर चुनें"
+
+#: templates/adminsettings.php:307
+msgid "Select Option"
+msgstr "विकल्प का चयन करें"
+
+#: custom-store-locator.php:132
+msgid "Settings"
+msgstr "सेटिंग्स"
+
+#: custom-store-locator.php:263
+msgid "Sorry, no locations were found near"
+msgstr "क्षमा करें, कोई स्थानों रहे थे, के पास पाया"
+
+#: inc/Csl-functions.php:146 inc/layout/default-right-map.php:96
+#: inc/layout/map-style-1.php:104
+msgid "Store Hours"
+msgstr "स्टोर घंटे"
+
+#: custom-store-locator.php:130
+msgid "Store Locator"
+msgstr "स्टोर लोकेटर"
+
+#: templates/admin.php:4
+msgid "Store Locator Plugin"
+msgstr "स्टोर लोकेटर प्लगइन"
+
+#: custom-store-locator.php:268
+msgid "Store Name"
+msgstr "स्टोर नाम"
+
+#: custom-store-locator.php:264
+msgid "Street View"
+msgstr "सड़क दृश्य"
+
+#: templates/adminsettings.php:311
+msgid "Terrain"
+msgstr "इलाके"
+
+#: templates/adminsettings.php:638
+msgid ""
+"This is helpful when all of your stores are located in single country and "
+"you are facing incorrect search result problems. Just select country from "
+"above list."
+msgstr ""
+"यह तब मददगार होता है जब आपके सभी स्टोर एक ही देश में स्थित हों और आपको गलत "
+"खोज परिणाम की समस्या का सामना करना पड़ रहा हो। बस ऊपर दी गई सूची से देश "
+"चुनें।"
+
+#. Description of the plugin
+msgid ""
+"This is store locator plugin which provide search stores and other "
+"functionality."
+msgstr ""
+"इस स्टोर लोकेटर प्लगइन प्रदान करते हैं, जो खोज की दुकानों और अन्य "
+"कार्यक्षमता है । "
+
+#: custom-store-locator.php:169
+msgid "Title"
+msgstr "शीर्षक"
+
+#: templates/adminsettings.php:320
+msgid "Title Ascending"
+msgstr "शीर्षक आरोही"
+
+#: templates/adminsettings.php:321
+msgid "Title Descending"
+msgstr "शीर्षक उतरते"
+
+#: templates/adminsettings.php:25
+msgid "Total item count: "
+msgstr "कुल आइटम गिनती: "
+
+#: templates/adminsettings.php:295
+msgid "Upload Custom Google Map Marker"
+msgstr "अपलोड कस्टम गूगल मानचित्र मार्कर"
+
+#: inc/Csl-functions.php:598 inc/Csl-functions.php:645
+msgid "Upload Marker"
+msgstr "मार्कर अपलोड करें"
+
+#: templates/admin.php:7
+msgid ""
+"Use \"[csl-search pageid=\"your store listing page id\"]\" shortcode on page "
+"for displaying search widget in page where \"your store listing page id\" is "
+"page id of store listing page which contains  \"[csl-store-list]\" shortcode."
+" For example, [csl-search pageid=\"5226\"] ."
+msgstr ""
+"पेज पर सर्च विजेट दिखाने के लिए \"[csl-search pageid=\"your store listing "
+"page id\"]\" शॉर्टकोड का इस्तेमाल करें, जहाँ \"your store listing page id\" "
+"स्टोर लिस्टिंग पेज की पेज आईडी है जिसमें \"[csl-store-list]\" शॉर्टकोड शामिल "
+"है। उदाहरण के लिए, [csl-search pageid=\"5226\"] ."
+
+#: templates/admin.php:8
+#, fuzzy
+#| msgid ""
+#| "Use <strong>\"[csl-store-list category=\"your category slug\"]\"</strong> "
+#| "shortcode on page for displaying store list along with map for specific "
+#| "category"
+msgid ""
+"Use \"[csl-store-list category=\"your category slug\"]\" shortcode on page "
+"for displaying store list along with map for specific category"
+msgstr ""
+"विशिष्ट श्रेणी के लिए मानचित्र के साथ स्टोर सूची प्रदर्शित करने के लिए पृष्ठ "
+"पर <strong>\"[csl-store-list category=\"your category slug\"]\"</strong> "
+"शोर्टकोड का उपयोग करें"
+
+#: templates/admin.php:6
+#, fuzzy
+#| msgid ""
+#| "Use <strong>\"[csl-store-list]\"</strong> shortcode on page for "
+#| "displaying store list along with map"
+msgid ""
+"Use \"[csl-store-list]\" shortcode on page for displaying store list along "
+"with map"
+msgstr ""
+"मानचित्र के साथ स्टोर सूची प्रदर्शित करने के लिए पृष्ठ पर <strong>\"[csl-"
+"store-list]\"</strong> शोर्टकोड का उपयोग करें"
+
+#: inc/Csl-functions.php:611 inc/Csl-functions.php:663
+msgid "Use This Marker"
+msgstr "इस मार्कर का उपयोग करें"
+
+#: custom-store-locator.php:262 inc/layout/default-right-map.php:99
+#: inc/layout/map-style-1.php:108
+msgid "View on Map"
+msgstr "मानचित्र पर देखें"
+
+#: inc/Csl-functions.php:115 inc/Csl-functions.php:120
+#: inc/layout/default-right-map.php:93 inc/layout/map-style-1.php:113
+msgid "Website"
+msgstr "वेबसाइट"
+
+#: inc/Csl-functions.php:373
+msgid "Website URL"
+msgstr "वेबसाइट यूआरएल"
+
+#. %s: Link to the sample CSV file
+#: templates/adminsettings.php:131
+#, php-format
+msgid ""
+"You can import location using a CSV file. You can download the sample CSV "
+"file from %s."
+msgstr ""
+"आप CSV फ़ाइल का उपयोग करके स्थान आयात कर सकते हैं। आप %s से नमूना CSV फ़ाइल "
+"डाउनलोड कर सकते हैं।"
+
+#: custom-store-locator.php:254 inc/Csl-functions.php:228
+#: inc/layout/default-right-map.php:20 inc/layout/full-width-map.php:22
+#: inc/layout/map-style-1.php:22
+msgid "Zipcode"
+msgstr "ज़िपकोड"

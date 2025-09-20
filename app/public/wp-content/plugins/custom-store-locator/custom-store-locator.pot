@@ -1,0 +1,500 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Custom Store Locator\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-05-16 12:18+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.3; wp-6.1.1\n"
+"X-Domain: custom-store-locator"
+
+#: custom-store-locator.php:131
+msgid "About"
+msgstr ""
+
+#: inc/Csl-functions.php:156 inc/layout/default-right-map.php:78
+#: inc/layout/map-style-1.php:92
+msgid "Address"
+msgstr ""
+
+#: custom-store-locator.php:252 inc/layout/default-right-map.php:16
+#: inc/layout/full-width-map.php:18 inc/layout/map-style-1.php:20
+msgid "Address or Zipcode"
+msgstr ""
+
+#: templates/adminsettings.php:629
+msgid "All Countries"
+msgstr ""
+
+#: inc/layout/default-right-map.php:48 inc/layout/full-width-map.php:27
+#: inc/layout/map-style-1.php:57
+msgid "All Locations"
+msgstr ""
+
+#: templates/adminsettings.php:116
+msgid "Appearance"
+msgstr ""
+
+#: templates/adminsettings.php:198
+msgid "Appearance Settings"
+msgstr ""
+
+#: inc/layout/default-right-map.php:114 inc/layout/full-width-map.php:72
+#: inc/layout/map-style-1.php:65
+msgid "Back to Map"
+msgstr ""
+
+#: inc/Csl-functions.php:381
+msgid "Business Address"
+msgstr ""
+
+#: inc/Csl-functions.php:379
+msgid "Business Contact Email"
+msgstr ""
+
+#: inc/Csl-functions.php:377
+msgid "Business FAX"
+msgstr ""
+
+#: inc/Csl-functions.php:389
+msgid "Business Hours (Use Shift+Enter for line break)"
+msgstr ""
+
+#: inc/Csl-functions.php:385
+msgid "Business Latitude"
+msgstr ""
+
+#: inc/Csl-functions.php:387
+msgid "Business Longitude"
+msgstr ""
+
+#: inc/Csl-functions.php:375
+msgid "Business Phone Number"
+msgstr ""
+
+#: inc/Csl-functions.php:383
+msgid "Business Zip Code"
+msgstr ""
+
+#: inc/Csl-functions.php:136 inc/layout/map-style-1.php:110
+msgid "Call"
+msgstr ""
+
+#: inc/Csl-functions.php:596 inc/Csl-functions.php:641
+msgid "Category Marker"
+msgstr ""
+
+#: templates/adminsettings.php:627
+msgid "Country Search Restriction"
+msgstr ""
+
+#: inc/layout/map-style-1.php:44
+msgid "current location"
+msgstr ""
+
+#: templates/adminsettings.php:319
+msgid "Custom Menu Order"
+msgstr ""
+
+#: templates/adminsettings.php:110
+msgid "Custom Store Locator Settings"
+msgstr ""
+
+#. Name of the plugin
+msgid "Custom WP Store Locator"
+msgstr ""
+
+#: templates/adminsettings.php:322
+msgid "Date Ascending"
+msgstr ""
+
+#: templates/adminsettings.php:323
+msgid "Date Descending"
+msgstr ""
+
+#: templates/adminsettings.php:318
+msgid "Default"
+msgstr ""
+
+#: templates/adminsettings.php:348
+msgid "Disable Marker Cluster in Map"
+msgstr ""
+
+#: templates/adminsettings.php:271
+msgid "Distance Units"
+msgstr ""
+
+#: templates/adminsettings.php:40
+msgid "Done! "
+msgstr ""
+
+#: inc/Csl-functions.php:110 inc/layout/default-right-map.php:87
+#: inc/layout/map-style-1.php:98
+msgid "Email"
+msgstr ""
+
+#: templates/adminsettings.php:344
+msgid "Enable Autocomplete in Searchbox"
+msgstr ""
+
+#: inc/Csl-functions.php:267
+msgid "Enter Address"
+msgstr ""
+
+#: inc/Csl-functions.php:228
+msgid "Enter Zipcode"
+msgstr ""
+
+#: inc/Csl-functions.php:141 inc/layout/default-right-map.php:90
+#: inc/layout/map-style-1.php:101
+msgid "Fax"
+msgstr ""
+
+#: templates/adminsettings.php:114 templates/adminsettings.php:145
+msgid "Field Settings"
+msgstr ""
+
+#: templates/adminsettings.php:331
+msgid "Fullwidth Map"
+msgstr ""
+
+#: templates/adminsettings.php:113 templates/adminsettings.php:240
+msgid "General"
+msgstr ""
+
+#: custom-store-locator.php:258
+msgid "Get Direction"
+msgstr ""
+
+#: templates/adminsettings.php:267
+msgid "Google Map API Key"
+msgstr ""
+
+#: templates/adminsettings.php:280
+msgid "Google Map Default Radius"
+msgstr ""
+
+#: templates/adminsettings.php:352
+msgid "Google Map Default Zoom"
+msgstr ""
+
+#: templates/adminsettings.php:305
+msgid "Google Map Type"
+msgstr ""
+
+#: templates/adminsettings.php:132
+msgid "here"
+msgstr ""
+
+#: templates/adminsettings.php:160
+msgid "Hide Email"
+msgstr ""
+
+#: templates/adminsettings.php:164
+msgid "Hide Fax Number"
+msgstr ""
+
+#: templates/adminsettings.php:156
+msgid "Hide Phone Number"
+msgstr ""
+
+#: templates/adminsettings.php:172
+msgid "Hide Store Hours"
+msgstr ""
+
+#: templates/adminsettings.php:168
+msgid "Hide Website"
+msgstr ""
+
+#. URI of the plugin
+msgid "https://www.devxcel.com/"
+msgstr ""
+
+#: templates/adminsettings.php:310
+msgid "Hybrid"
+msgstr ""
+
+#: templates/adminsettings.php:115
+msgid "Import"
+msgstr ""
+
+#: templates/adminsettings.php:122
+msgid "Import Locations"
+msgstr ""
+
+#. 1: Name of a city 2: ZIP code
+#: templates/adminsettings.php:61
+#, php-format
+msgid "Importing %1$s, <i> ( %2$s locations remaining)...</i><BR />"
+msgstr ""
+
+#: templates/adminsettings.php:287
+msgid "Include Category in Searchbox"
+msgstr ""
+
+#: templates/adminsettings.php:339
+msgid "Include Locations Dropdown in Searchbox"
+msgstr ""
+
+#: templates/adminsettings.php:291
+msgid "Include Name in Searchbox"
+msgstr ""
+
+#: templates/adminsettings.php:275
+msgid "Kilometers"
+msgstr ""
+
+#: custom-store-locator.php:266
+msgid "KM Away"
+msgstr ""
+
+#: templates/adminsettings.php:327
+msgid "Layout"
+msgstr ""
+
+#: custom-store-locator.php:154
+msgid "Location Categories"
+msgstr ""
+
+#: custom-store-locator.php:145
+msgid "Locations"
+msgstr ""
+
+#: templates/adminsettings.php:315
+msgid "Locations Default Sorting"
+msgstr ""
+
+#: custom-store-locator.php:261
+msgid "Locations near"
+msgstr ""
+
+#: custom-store-locator.php:260
+msgid "Locations near Me"
+msgstr ""
+
+#: templates/adminsettings.php:355
+msgid "Map Default Zoom"
+msgstr ""
+
+#: templates/adminsettings.php:330
+msgid "Map With Sidebar List"
+msgstr ""
+
+#. Author of the plugin
+msgid "Metatagg Inc"
+msgstr ""
+
+#: templates/adminsettings.php:274
+msgid "Miles"
+msgstr ""
+
+#: custom-store-locator.php:265
+msgid "Miles Away"
+msgstr ""
+
+#: templates/adminsettings.php:332
+msgid "Modern Style 1"
+msgstr ""
+
+#: custom-store-locator.php:259
+msgid "No locations found. Please search again"
+msgstr ""
+
+#: inc/Csl-functions.php:131 inc/layout/default-right-map.php:84
+msgid "Phone"
+msgstr ""
+
+#: custom-store-locator.php:119
+msgid "Please add google map api key on setting for map to work."
+msgstr ""
+
+#: inc/Csl-functions.php:126 inc/layout/default-right-map.php:81
+#: inc/layout/map-style-1.php:95
+msgid "Postal Code"
+msgstr ""
+
+#: templates/adminsettings.php:206
+msgid "Primary Color"
+msgstr ""
+
+#: templates/adminsettings.php:283
+msgid "Radius units are based on above Distance Units field selected option"
+msgstr ""
+
+#: inc/Csl-functions.php:599 inc/Csl-functions.php:646
+msgid "Remove Marker"
+msgstr ""
+
+#: inc/layout/default-right-map.php:46 inc/layout/full-width-map.php:67
+#: inc/layout/map-style-1.php:52
+msgid "Reset"
+msgstr ""
+
+#: templates/adminsettings.php:308
+msgid "Roadmap"
+msgstr ""
+
+#: templates/adminsettings.php:309
+msgid "Satellite"
+msgstr ""
+
+#: inc/layout/default-right-map.php:45 inc/layout/full-width-map.php:66
+#: inc/layout/map-style-1.php:49
+msgid "Search"
+msgstr ""
+
+#: inc/layout/default-right-map.php:8 inc/layout/full-width-map.php:10
+#: inc/layout/map-style-1.php:14
+msgid "Search By Name"
+msgstr ""
+
+#: templates/adminsettings.php:210
+msgid "Secondary Color"
+msgstr ""
+
+#: inc/layout/default-right-map.php:31 inc/layout/full-width-map.php:54
+#: inc/layout/map-style-1.php:33
+msgid "Select Category"
+msgstr ""
+
+#: templates/adminsettings.php:329
+msgid "Select Layout"
+msgstr ""
+
+#: inc/Csl-functions.php:609 inc/Csl-functions.php:661
+msgid "Select Marker"
+msgstr ""
+
+#: templates/adminsettings.php:307
+msgid "Select Option"
+msgstr ""
+
+#: custom-store-locator.php:132
+msgid "Settings"
+msgstr ""
+
+#: custom-store-locator.php:263
+msgid "Sorry, no locations were found near"
+msgstr ""
+
+#: inc/Csl-functions.php:146 inc/layout/default-right-map.php:96
+#: inc/layout/map-style-1.php:104
+msgid "Store Hours"
+msgstr ""
+
+#: custom-store-locator.php:130
+msgid "Store Locator"
+msgstr ""
+
+#: templates/admin.php:4
+msgid "Store Locator Plugin"
+msgstr ""
+
+#: custom-store-locator.php:268
+msgid "Store Name"
+msgstr ""
+
+#: custom-store-locator.php:264
+msgid "Street View"
+msgstr ""
+
+#: templates/adminsettings.php:311
+msgid "Terrain"
+msgstr ""
+
+#: templates/adminsettings.php:638
+msgid ""
+"This is helpful when all of your stores are located in single country and "
+"you are facing incorrect search result problems. Just select country from "
+"above list."
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"This is store locator plugin which provide search stores and other "
+"functionality."
+msgstr ""
+
+#: custom-store-locator.php:169
+msgid "Title"
+msgstr ""
+
+#: templates/adminsettings.php:320
+msgid "Title Ascending"
+msgstr ""
+
+#: templates/adminsettings.php:321
+msgid "Title Descending"
+msgstr ""
+
+#: templates/adminsettings.php:25
+msgid "Total item count: "
+msgstr ""
+
+#: templates/adminsettings.php:295
+msgid "Upload Custom Google Map Marker"
+msgstr ""
+
+#: inc/Csl-functions.php:598 inc/Csl-functions.php:645
+msgid "Upload Marker"
+msgstr ""
+
+#: templates/admin.php:7
+msgid ""
+"Use \"[csl-search pageid=\"your store listing page id\"]\" shortcode on page "
+"for displaying search widget in page where \"your store listing page id\" is "
+"page id of store listing page which contains  \"[csl-store-list]\" shortcode."
+" For example, [csl-search pageid=\"5226\"] ."
+msgstr ""
+
+#: templates/admin.php:8
+msgid ""
+"Use \"[csl-store-list category=\"your category slug\"]\" shortcode on page "
+"for displaying store list along with map for specific category"
+msgstr ""
+
+#: templates/admin.php:6
+msgid ""
+"Use \"[csl-store-list]\" shortcode on page for displaying store list along "
+"with map"
+msgstr ""
+
+#: inc/Csl-functions.php:611 inc/Csl-functions.php:663
+msgid "Use This Marker"
+msgstr ""
+
+#: custom-store-locator.php:262 inc/layout/default-right-map.php:99
+#: inc/layout/map-style-1.php:108
+msgid "View on Map"
+msgstr ""
+
+#: inc/Csl-functions.php:115 inc/Csl-functions.php:120
+#: inc/layout/default-right-map.php:93 inc/layout/map-style-1.php:113
+msgid "Website"
+msgstr ""
+
+#: inc/Csl-functions.php:373
+msgid "Website URL"
+msgstr ""
+
+#. %s: Link to the sample CSV file
+#: templates/adminsettings.php:131
+#, php-format
+msgid ""
+"You can import location using a CSV file. You can download the sample CSV "
+"file from %s."
+msgstr ""
+
+#: custom-store-locator.php:254 inc/Csl-functions.php:228
+#: inc/layout/default-right-map.php:20 inc/layout/full-width-map.php:22
+#: inc/layout/map-style-1.php:22
+msgid "Zipcode"
+msgstr ""

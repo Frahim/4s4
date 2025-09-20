@@ -1,0 +1,523 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Custom Store Locator\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-11-25 06:07+0000\n"
+"PO-Revision-Date: 2025-05-16 12:23+0000\n"
+"Last-Translator: \n"
+"Language-Team: Arabic\n"
+"Language: ar\n"
+"Plural-Forms: nplurals=6; plural=n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100 >= 3 "
+"&& n%100<=10 ? 3 : n%100 >= 11 && n%100<=99 ? 4 : 5;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.3; wp-6.1.1\n"
+"X-Domain: custom-store-locator"
+
+#: custom-store-locator.php:131
+msgid "About"
+msgstr "عن"
+
+#: inc/Csl-functions.php:156 inc/layout/default-right-map.php:78
+#: inc/layout/map-style-1.php:92
+msgid "Address"
+msgstr "عنوان"
+
+#: custom-store-locator.php:252 inc/layout/default-right-map.php:16
+#: inc/layout/full-width-map.php:18 inc/layout/map-style-1.php:20
+msgid "Address or Zipcode"
+msgstr "العنوان أو الرمز البريدي"
+
+#: templates/adminsettings.php:629
+msgid "All Countries"
+msgstr "جميع البلدان"
+
+#: inc/layout/default-right-map.php:48 inc/layout/full-width-map.php:27
+#: inc/layout/map-style-1.php:57
+msgid "All Locations"
+msgstr "جميع المواقع"
+
+#: templates/adminsettings.php:116
+msgid "Appearance"
+msgstr "مظهر"
+
+#: templates/adminsettings.php:198
+msgid "Appearance Settings"
+msgstr "إعدادات المظهر"
+
+#: inc/layout/default-right-map.php:114 inc/layout/full-width-map.php:72
+#: inc/layout/map-style-1.php:65
+msgid "Back to Map"
+msgstr "العودة إلى الخريطة"
+
+#: inc/Csl-functions.php:381
+msgid "Business Address"
+msgstr "عنوان العمل"
+
+#: inc/Csl-functions.php:379
+msgid "Business Contact Email"
+msgstr "البريد الإلكتروني لجهة الاتصال التجارية"
+
+#: inc/Csl-functions.php:377
+msgid "Business FAX"
+msgstr "فاكس الأعمال"
+
+#: inc/Csl-functions.php:389
+msgid "Business Hours (Use Shift+Enter for line break)"
+msgstr "ساعات العمل (استخدم Shift+Enter لكسر السطر)"
+
+#: inc/Csl-functions.php:385
+msgid "Business Latitude"
+msgstr "خط عرض الأعمال"
+
+#: inc/Csl-functions.php:387
+msgid "Business Longitude"
+msgstr "خط طول الأعمال"
+
+#: inc/Csl-functions.php:375
+msgid "Business Phone Number"
+msgstr "رقم هاتف العمل"
+
+#: inc/Csl-functions.php:383
+msgid "Business Zip Code"
+msgstr "الرمز البريدي للأعمال"
+
+#: inc/Csl-functions.php:136 inc/layout/map-style-1.php:110
+msgid "Call"
+msgstr "يتصل"
+
+#: inc/Csl-functions.php:596 inc/Csl-functions.php:641
+msgid "Category Marker"
+msgstr "علامة الفئة"
+
+#: templates/adminsettings.php:627
+msgid "Country Search Restriction"
+msgstr "تقييد البحث حسب البلد"
+
+#: inc/layout/map-style-1.php:44
+msgid "current location"
+msgstr "الموقع الحالي"
+
+#: templates/adminsettings.php:319
+msgid "Custom Menu Order"
+msgstr "قائمة مخصصة من أجل"
+
+#: templates/adminsettings.php:110
+msgid "Custom Store Locator Settings"
+msgstr "إعدادات تحديد موقع المتجر المخصص"
+
+#. Name of the plugin
+#, fuzzy
+#| msgid "Custom Store Locator"
+msgid "Custom WP Store Locator"
+msgstr "مخزن مخصص محدد"
+
+#: templates/adminsettings.php:322
+msgid "Date Ascending"
+msgstr "تاريخ تصاعدي"
+
+#: templates/adminsettings.php:323
+msgid "Date Descending"
+msgstr "تاريخ تنازلي"
+
+#: templates/adminsettings.php:318
+msgid "Default"
+msgstr "الافتراضي"
+
+#: templates/adminsettings.php:348
+msgid "Disable Marker Cluster in Map"
+msgstr "تعطيل مجموعة العلامات في الخريطة"
+
+#: templates/adminsettings.php:271
+msgid "Distance Units"
+msgstr "وحدات المسافة"
+
+#: templates/adminsettings.php:40
+msgid "Done! "
+msgstr "منتهي! "
+
+#: inc/Csl-functions.php:110 inc/layout/default-right-map.php:87
+#: inc/layout/map-style-1.php:98
+msgid "Email"
+msgstr "بريد إلكتروني"
+
+#: templates/adminsettings.php:344
+msgid "Enable Autocomplete in Searchbox"
+msgstr "تمكين الإكمال التلقائي في مربع البحث"
+
+#: inc/Csl-functions.php:267
+msgid "Enter Address"
+msgstr "أدخل العنوان"
+
+#: inc/Csl-functions.php:228
+msgid "Enter Zipcode"
+msgstr "أدخل الرمز البريدي"
+
+#: inc/Csl-functions.php:141 inc/layout/default-right-map.php:90
+#: inc/layout/map-style-1.php:101
+msgid "Fax"
+msgstr "فاكس"
+
+#: templates/adminsettings.php:114 templates/adminsettings.php:145
+msgid "Field Settings"
+msgstr "إعدادات الحقل"
+
+#: templates/adminsettings.php:331
+msgid "Fullwidth Map"
+msgstr "خريطة كاملة العرض"
+
+#: templates/adminsettings.php:113 templates/adminsettings.php:240
+msgid "General"
+msgstr "العامة"
+
+#: custom-store-locator.php:258
+msgid "Get Direction"
+msgstr "احصل على الاتجاه"
+
+#: templates/adminsettings.php:267
+msgid "Google Map API Key"
+msgstr "خريطة جوجل API الرئيسية"
+
+#: templates/adminsettings.php:280
+msgid "Google Map Default Radius"
+msgstr "نصف القطر الافتراضي لخرائط جوجل"
+
+#: templates/adminsettings.php:352
+msgid "Google Map Default Zoom"
+msgstr "تكبير/تصغير خرائط جوجل الافتراضية"
+
+#: templates/adminsettings.php:305
+msgid "Google Map Type"
+msgstr "خريطة جوجل اكتب"
+
+#: templates/adminsettings.php:132
+msgid "here"
+msgstr "هنا"
+
+#: templates/adminsettings.php:160
+msgid "Hide Email"
+msgstr "إخفاء البريد الإلكتروني"
+
+#: templates/adminsettings.php:164
+msgid "Hide Fax Number"
+msgstr "إخفاء رقم الفاكس"
+
+#: templates/adminsettings.php:156
+msgid "Hide Phone Number"
+msgstr "إخفاء رقم الهاتف"
+
+#: templates/adminsettings.php:172
+msgid "Hide Store Hours"
+msgstr "إخفاء ساعات العمل"
+
+#: templates/adminsettings.php:168
+msgid "Hide Website"
+msgstr "إخفاء الموقع"
+
+#. URI of the plugin
+msgid "https://www.devxcel.com/"
+msgstr "https://www.devxcel.com/"
+
+#: templates/adminsettings.php:310
+msgid "Hybrid"
+msgstr "الهجين"
+
+#: templates/adminsettings.php:115
+msgid "Import"
+msgstr "استيراد"
+
+#: templates/adminsettings.php:122
+msgid "Import Locations"
+msgstr "مواقع استيراد"
+
+#. 1: Name of a city 2: ZIP code
+#: templates/adminsettings.php:61
+#, php-format
+msgid "Importing %1$s, <i> ( %2$s locations remaining)...</i><BR />"
+msgstr "جاري استيراد %1$s، <i>(%2$s مواقع متبقية)...</i><BR />"
+
+#: templates/adminsettings.php:287
+msgid "Include Category in Searchbox"
+msgstr "تشمل فئة في مربع البحث"
+
+#: templates/adminsettings.php:339
+msgid "Include Locations Dropdown in Searchbox"
+msgstr "تضمين القائمة المنسدلة للمواقع في مربع البحث"
+
+#: templates/adminsettings.php:291
+msgid "Include Name in Searchbox"
+msgstr "تضمين الاسم في مربع البحث"
+
+#: templates/adminsettings.php:275
+msgid "Kilometers"
+msgstr "كيلومترات"
+
+#: custom-store-locator.php:266
+msgid "KM Away"
+msgstr "كم بعيدا"
+
+#: templates/adminsettings.php:327
+msgid "Layout"
+msgstr "تَخطِيط"
+
+#: custom-store-locator.php:154
+msgid "Location Categories"
+msgstr "فئات الموقع"
+
+#: custom-store-locator.php:145
+msgid "Locations"
+msgstr "المواقع"
+
+#: templates/adminsettings.php:315
+msgid "Locations Default Sorting"
+msgstr "مواقع الفرز الافتراضي"
+
+#: custom-store-locator.php:261
+msgid "Locations near"
+msgstr "المواقع القريبة"
+
+#: custom-store-locator.php:260
+msgid "Locations near Me"
+msgstr "المواقع القريبة مني"
+
+#: templates/adminsettings.php:355
+msgid "Map Default Zoom"
+msgstr "تكبير الخريطة الافتراضي"
+
+#: templates/adminsettings.php:330
+msgid "Map With Sidebar List"
+msgstr "خريطة مع قائمة الشريط الجانبي"
+
+#. Author of the plugin
+msgid "Metatagg Inc"
+msgstr "Metatagg Inc"
+
+#: templates/adminsettings.php:274
+msgid "Miles"
+msgstr "أميال"
+
+#: custom-store-locator.php:265
+msgid "Miles Away"
+msgstr "على بعد أميال"
+
+#: templates/adminsettings.php:332
+msgid "Modern Style 1"
+msgstr "الطراز الحديث 1"
+
+#: custom-store-locator.php:259
+msgid "No locations found. Please search again"
+msgstr "لم يتم العثور على أي مواقع. يُرجى البحث مجددًا."
+
+#: inc/Csl-functions.php:131 inc/layout/default-right-map.php:84
+msgid "Phone"
+msgstr "هاتف"
+
+#: custom-store-locator.php:119
+msgid "Please add google map api key on setting for map to work."
+msgstr "يرجى إضافة خريطة جوجل api الرئيسية على وضع خريطة للعمل."
+
+#: inc/Csl-functions.php:126 inc/layout/default-right-map.php:81
+#: inc/layout/map-style-1.php:95
+msgid "Postal Code"
+msgstr "رمز بريدي"
+
+#: templates/adminsettings.php:206
+msgid "Primary Color"
+msgstr "اللون الأساسي"
+
+#: templates/adminsettings.php:283
+msgid "Radius units are based on above Distance Units field selected option"
+msgstr "تعتمد وحدات نصف القطر على خيار حقل وحدات المسافة المحدد أعلاه"
+
+#: inc/Csl-functions.php:599 inc/Csl-functions.php:646
+msgid "Remove Marker"
+msgstr "إزالة العلامة"
+
+#: inc/layout/default-right-map.php:46 inc/layout/full-width-map.php:67
+#: inc/layout/map-style-1.php:52
+msgid "Reset"
+msgstr "إعادة تعيين"
+
+#: templates/adminsettings.php:308
+msgid "Roadmap"
+msgstr "خارطة الطريق"
+
+#: templates/adminsettings.php:309
+msgid "Satellite"
+msgstr "قنوات"
+
+#: inc/layout/default-right-map.php:45 inc/layout/full-width-map.php:66
+#: inc/layout/map-style-1.php:49
+msgid "Search"
+msgstr "البحث"
+
+#: inc/layout/default-right-map.php:8 inc/layout/full-width-map.php:10
+#: inc/layout/map-style-1.php:14
+msgid "Search By Name"
+msgstr "البحث حسب الاسم"
+
+#: templates/adminsettings.php:210
+msgid "Secondary Color"
+msgstr "اللون الثانوي"
+
+#: inc/layout/default-right-map.php:31 inc/layout/full-width-map.php:54
+#: inc/layout/map-style-1.php:33
+msgid "Select Category"
+msgstr "اختر الفئة"
+
+#: templates/adminsettings.php:329
+msgid "Select Layout"
+msgstr "حدد التخطيط"
+
+#: inc/Csl-functions.php:609 inc/Csl-functions.php:661
+msgid "Select Marker"
+msgstr "حدد العلامة"
+
+#: templates/adminsettings.php:307
+msgid "Select Option"
+msgstr "حدد الخيار"
+
+#: custom-store-locator.php:132
+msgid "Settings"
+msgstr "إعدادات"
+
+#: custom-store-locator.php:263
+msgid "Sorry, no locations were found near"
+msgstr "عذرا، لم يتم العثور على أي مواقع بالقرب"
+
+#: inc/Csl-functions.php:146 inc/layout/default-right-map.php:96
+#: inc/layout/map-style-1.php:104
+msgid "Store Hours"
+msgstr "ساعات العمل"
+
+#: custom-store-locator.php:130
+msgid "Store Locator"
+msgstr "محدد موقع المتجر"
+
+#: templates/admin.php:4
+msgid "Store Locator Plugin"
+msgstr "فروعنا المساعد"
+
+#: custom-store-locator.php:268
+msgid "Store Name"
+msgstr "اسم المتجر"
+
+#: custom-store-locator.php:264
+msgid "Street View"
+msgstr "عرض الشارع"
+
+#: templates/adminsettings.php:311
+msgid "Terrain"
+msgstr "التضاريس"
+
+#: templates/adminsettings.php:638
+msgid ""
+"This is helpful when all of your stores are located in single country and "
+"you are facing incorrect search result problems. Just select country from "
+"above list."
+msgstr ""
+"هذا مفيد عندما تكون جميع متاجرك في بلد واحد وتواجه مشاكل في نتائج البحث. ما "
+"عليك سوى اختيار البلد من القائمة أعلاه."
+
+#. Description of the plugin
+msgid ""
+"This is store locator plugin which provide search stores and other "
+"functionality."
+msgstr "هذا هو متجر محدد المساعد التي توفر البحث مخازن وظائف أخرى."
+
+#: custom-store-locator.php:169
+msgid "Title"
+msgstr "عنوان"
+
+#: templates/adminsettings.php:320
+msgid "Title Ascending"
+msgstr "العنوان تصاعدي"
+
+#: templates/adminsettings.php:321
+msgid "Title Descending"
+msgstr "العنوان تنازلي"
+
+#: templates/adminsettings.php:25
+msgid "Total item count: "
+msgstr "إجمالي عدد العناصر:"
+
+#: templates/adminsettings.php:295
+msgid "Upload Custom Google Map Marker"
+msgstr "تحميل مخصص خريطة جوجل علامة"
+
+#: inc/Csl-functions.php:598 inc/Csl-functions.php:645
+msgid "Upload Marker"
+msgstr "علامة التحميل"
+
+#: templates/admin.php:7
+msgid ""
+"Use \"[csl-search pageid=\"your store listing page id\"]\" shortcode on page "
+"for displaying search widget in page where \"your store listing page id\" is "
+"page id of store listing page which contains  \"[csl-store-list]\" shortcode."
+" For example, [csl-search pageid=\"5226\"] ."
+msgstr ""
+"استخدم الرمز المختصر \"[csl-search pageid=\"your store listing page id\"]\" "
+"لعرض أداة البحث في الصفحة التي يكون فيها \"your store listing page id\" هو "
+"معرف صفحة المتجر التي تحتوي على الرمز المختصر \"[csl-store-list]\". على سبيل "
+"المثال، [csl-search pageid=\"5226\"]."
+
+#: templates/admin.php:8
+#, fuzzy
+#| msgid ""
+#| "Use <strong>\"[csl-store-list category=\"your category slug\"]\"</strong> "
+#| "shortcode on page for displaying store list along with map for specific "
+#| "category"
+msgid ""
+"Use \"[csl-store-list category=\"your category slug\"]\" shortcode on page "
+"for displaying store list along with map for specific category"
+msgstr ""
+"استخدم <strong> \"[csl-store-list category =\" your category slug \"]\" "
+"</strong> الرمز المختصر في الصفحة لعرض قائمة المتاجر جنبًا إلى جنب مع "
+"الخريطة لفئة معينة"
+
+#: templates/admin.php:6
+#, fuzzy
+#| msgid ""
+#| "Use <strong>\"[csl-store-list]\"</strong> shortcode on page for "
+#| "displaying store list along with map"
+msgid ""
+"Use \"[csl-store-list]\" shortcode on page for displaying store list along "
+"with map"
+msgstr ""
+"استخدم <strong> \"[csl-store-list]\" </strong> الرمز المختصر في الصفحة لعرض "
+"قائمة المتاجر مع الخريطة"
+
+#: inc/Csl-functions.php:611 inc/Csl-functions.php:663
+msgid "Use This Marker"
+msgstr "استخدم هذا العلامة"
+
+#: custom-store-locator.php:262 inc/layout/default-right-map.php:99
+#: inc/layout/map-style-1.php:108
+msgid "View on Map"
+msgstr "عرض على الخريطة"
+
+#: inc/Csl-functions.php:115 inc/Csl-functions.php:120
+#: inc/layout/default-right-map.php:93 inc/layout/map-style-1.php:113
+msgid "Website"
+msgstr "موقع إلكتروني"
+
+#: inc/Csl-functions.php:373
+msgid "Website URL"
+msgstr "عنوان موقع الويب"
+
+#. %s: Link to the sample CSV file
+#: templates/adminsettings.php:131
+#, php-format
+msgid ""
+"You can import location using a CSV file. You can download the sample CSV "
+"file from %s."
+msgstr ""
+"يمكنك استيراد الموقع باستخدام ملف CSV. يمكنك تنزيل ملف CSV النموذجي من %s."
+
+#: custom-store-locator.php:254 inc/Csl-functions.php:228
+#: inc/layout/default-right-map.php:20 inc/layout/full-width-map.php:22
+#: inc/layout/map-style-1.php:22
+msgid "Zipcode"
+msgstr "الرمز البريدي"

@@ -1,0 +1,133 @@
+#locations-near-you-map {
+  width: 100%;
+  height: 400px;
+  margin: 0 auto;
+}
+
+form {
+  max-width: 800px;
+  margin: 0 auto;
+  text-align: center;
+  padding: 25px 10px;
+}
+
+input {
+	color: #000;
+	height: 1.8rem;
+	font-size: .9rem;
+	margin: 0 5px;
+	padding: 3px;
+}
+
+input[type=number] {
+  width: 60px;
+}
+
+input[type=text]  {
+  width: 300px;
+}
+
+button {
+	background-color: #a81612;
+	border-radius: 3px;
+	border: none;
+	color: #fff;
+	padding: .5rem 1rem;
+	transition: background-color 0.2s;
+}
+
+button:hover {
+	background-color: #d6322d;
+}
+
+button:active {
+	background-color: #000;
+	color: #fff;
+}
+
+#location-search-alert {
+  font-weight: 600;
+  padding: 10px;
+  text-align: center;
+}
+
+.infoWindow h3,
+.location-near-you-box h4 {
+  color: #a81612;
+  font-weight: 600;
+  margin-bottom: .5rem;
+}
+
+.infoWindow h3 {
+	font-size: 1.2rem;
+}
+
+.infoWindow p {
+	font-size: .8rem;
+}
+
+#locations-near-you {
+  text-align: center;
+}
+
+.location-near-you-box { 
+  overflow: scroll;
+  height: 400px;
+  box-sizing: border-box;
+  display: inline-block;
+  padding: 10px; 
+  border: 1px dotted #000;
+  border-radius: 3px;
+  margin: 10px; 
+  
+}
+
+.location-near-you-box p {
+  font-size: 16px; 
+}
+
+@media all and (max-width: 600px) {
+  h1 {
+    font-size: 2rem;
+  }
+  h1 img {
+    display: block;
+    margin: 0 auto 1rem auto;
+  }
+  input[type=number], input[type=text], label {
+    display: block;
+    margin: 10px auto;
+  }
+
+  input[type=text] {
+    max-width: 90%;
+  }
+}
+
+@media all and (max-width: 480px) {
+  .location-near-you-box {
+    display: block;
+    width: 90%;
+    margin: 10px auto;
+  }
+}
+
+.csl-wrapper
+{
+  width:100%;
+}
+.csl-left
+{
+  width:20%;
+  float: left;
+}
+.csl-right
+{
+  width:80%;
+  float: left;
+}
+#locations-near-you .csl-list-item
+{
+  border-bottom: 1px solid #4d4d4d;
+  padding: 5px;
+}
